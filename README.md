@@ -1,4 +1,4 @@
-# OOM Mini project
+# Simple Media Player
 
 ## Contributors:-
 1) https://github.com/Tushargupta9800
